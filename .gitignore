@@ -1,0 +1,14 @@
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.env
+.env.*
+!.env.example
+mlruns/
+mlartifacts/
+mlflow.db
+*.log
